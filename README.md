@@ -22,6 +22,19 @@ In this repository, you'll find a collection of resources and tips to help you g
 ## WordPress Themes and Plugins
 
 WordPress offers a wide range of free and paid themes and plugins to help you customize your blog's design and functionality. In this section, we'll share our favorite themes and plugins and provide tips on how to choose the right ones for your blog.
+| Theme/Plugin Name | Description | Link |
+| --- | --- | --- |
+| Astra | A lightweight, customizable theme with pre-built websites for various industries | [Link](https://wpastra.com/) |
+| OceanWP | A responsive, multipurpose theme with multiple demos and WooCommerce integration | [Link](https://oceanwp.org/) |
+| Hestia | A material design theme with a one-page layout and customizable sections | [Link](https://themeisle.com/themes/hestia/) |
+| GeneratePress | A fast, lightweight theme with a modular design and easy customization options | [Link](https://generatepress.com/) |
+| Neve | A modern, multipurpose theme with pre-built demos and easy customization options | [Link](https://themeisle.com/themes/neve/) |
+| Elementor | A popular page builder plugin with a drag-and-drop interface and pre-built templates | [Link](https://elementor.com/) |
+| Yoast SEO | A comprehensive SEO plugin with features for content optimization, XML sitemaps, and more | [Link](https://yoast.com/wordpress/plugins/seo/) |
+| Jetpack | A plugin with features for security, performance, social sharing, and more | [Link](https://jetpack.com/) |
+| WPForms Lite | A user-friendly plugin for creating contact forms, surveys, and other types of forms | [Link](https://wpforms.com/) |
+| Akismet | A plugin for spam protection, used by millions of WordPress sites | [Link](https://akismet.com/) |
+
 
 ## Search Engine Optimization (SEO)
 
