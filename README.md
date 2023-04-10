@@ -5,18 +5,6 @@ Welcome to our WordPress Content Marketing Repository! This repository contains 
 
 
 
-<style>
-  h2 {
-    background-color: #f0f0f0;
-    color: #333;
-    padding: 0.5em;
-    border-radius: 5px;
-  }
-</style>
-
-
-
-
 ## Table of Contents
 
 - [Introduction](#introduction)
