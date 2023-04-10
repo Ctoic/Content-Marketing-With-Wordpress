@@ -65,6 +65,16 @@ Keywords research is the process of finding and analyzing the search terms that 
 4. Prioritize your keywords based on their relevance, search volume, and competition level
 5. Use keywords strategically throughout your website content, including in your page titles, headings, meta descriptions, image alt tags, and in the body of your content
 
+### Key word Research TOOLS
+| Tool Name | Description | Link |
+| --- | --- | --- |
+| Google Keyword Planner | A free tool from Google that provides keyword ideas, search volume, competition, and cost per click data | [Link](https://ads.google.com/home/tools/keyword-planner/) |
+| SEMrush | An all-in-one SEO tool that includes keyword research, competitor analysis, and rank tracking features | [Link](https://www.semrush.com/) |
+| Ahrefs | A comprehensive SEO tool that includes keyword research, competitor analysis, backlink tracking, and more | [Link](https://ahrefs.com/) |
+| Moz Keyword Explorer | A keyword research tool that provides search volume, keyword difficulty, and SERP analysis features | [Link](https://moz.com/products/keyword-explorer) |
+| Ubersuggest | A free keyword research tool that offers keyword ideas, search volume, competition, and content suggestions | [Link](https://neilpatel.com/ubersuggest/) |
+
+
 Remember to focus on creating high-quality, useful, and relevant content for your target audience, and avoid keyword stuffing.
 
 
