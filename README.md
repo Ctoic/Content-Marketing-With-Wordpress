@@ -2,6 +2,16 @@
 
 Welcome to our WordPress Content Marketing Repository! This repository contains valuable information and resources to help you build a successful blogging career using WordPress.
 
+<style>
+  h1 {
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 0.5em;
+    border-radius: 5px;
+  }
+</style>
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
