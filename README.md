@@ -81,6 +81,18 @@ Remember to focus on creating high-quality, useful, and relevant content for you
 ## On Page SEO
 
 On-page SEO refers to the optimization of individual pages on your website to improve their ranking in search engine results pages. In this section, we'll provide tips on how to optimize your blog's content, structure, and HTML to improve its on-page SEO.
+### On-Page SEO Checklist
+
+- **Title tag:** Use a unique and descriptive title tag that includes your target keyword and accurately reflects the content of your page.
+- **Meta description:** Write a compelling meta description that summarizes the content of your page and includes your target keyword.
+- **Header tags:** Use header tags (H1, H2, H3) to structure your content and make it easy for search engines to understand the hierarchy of your page.
+- **URL structure:** Create clean and user-friendly URLs that include your target keyword and accurately reflect the content of your page.
+- **Keyword optimization:** Use your target keyword in your content, but avoid overusing it or "stuffing" it into your text. Use related keywords and synonyms to provide context and improve relevancy.
+- **Image optimization:** Use descriptive file names and alt text for your images to help search engines understand the content of your page.
+- **Internal linking:** Link to other relevant pages on your website to improve site navigation and provide additional context for search engines.
+- **Mobile optimization:** Ensure your website is mobile-friendly and easy to navigate on smaller screens.
+- **Page speed:** Optimize your website's loading speed to provide a better user experience and improve your search engine rankings.
+
 
 ## Off Page SEO
 
