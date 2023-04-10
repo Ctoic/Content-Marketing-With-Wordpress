@@ -57,6 +57,16 @@ Search engine optimization (SEO) is the process of optimizing your website to im
 ## Keywords Research
 
 Keywords research is the process of finding and analyzing the search terms that people use to find information online. In this section, we'll share tips and tools to help you find the best keywords for your blog and optimize your content for them.
+## Steps for Conducting Keyword Research
+
+1. Brainstorm potential keywords
+2. Use keyword research tools to discover new keyword ideas, analyze keyword competition and search volume, and identify long-tail keywords
+3. Analyze your competitors and identify opportunities to target similar keywords
+4. Prioritize your keywords based on their relevance, search volume, and competition level
+5. Use keywords strategically throughout your website content, including in your page titles, headings, meta descriptions, image alt tags, and in the body of your content
+
+Remember to focus on creating high-quality, useful, and relevant content for your target audience, and avoid keyword stuffing.
+
 
 ## On Page SEO
 
