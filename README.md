@@ -20,6 +20,7 @@ Welcome to our WordPress Content Marketing Repository! This repository contains 
 
 www.artligence.000webhostapp.com 
 
+
 ## Introduction
 
 Blogging has become a popular way for individuals and businesses to share their knowledge, experiences, and expertise with the world. WordPress is one of the most popular platforms for blogging due to its user-friendly interface, customizable design options, and powerful plugin architecture. 
